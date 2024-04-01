@@ -8,10 +8,10 @@ trigger:
 
 variables:
   # Azure Resource Manager connection created during pipeline creation
-  azureServiceConnectionId: 'ef7b6265-4d06-45b6-8d81-d952eb70bbd1'
+  azureServiceConnectionId: '32961f9b-e7dc-410b-bbd7-65cb26b4524b'
 
   # Web app name
-  webAppName: 'FARcheckingWebApp'
+  webAppName: 'RAFARcheckingWebApp'
 
   # Agent VM image name
   vmImageName: 'ubuntu-latest'
